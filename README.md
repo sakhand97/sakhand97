@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakhand97
+- 👋 Hi, I’m Akhand Pratap Singh
 - 👀 I’m interested in HTML, CSS, Javascript, Jquery and Bootstrap
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Website Designing
