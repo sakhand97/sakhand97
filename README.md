@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Akhand Pratap Singh
-- 👀 I’m interested in HTML, CSS, Javascript, Jquery and Bootstrap
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Website Designing
-- 📫 How to reach me sakhand97@gmail.com
+# Hi 👋, I’m Akhand Pratap Singh
 
-<!---
-sakhand97/sakhand97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Analyst | SQL | Power BI | Excel | Python
+
+I am a Data Analyst with hands-on experience in data cleaning, analysis, and visualization.  
+I work with **SQL, Excel, Power BI, and Python** to transform raw data into actionable business insights.
+
+---
+
+## 🔧 Skills & Tools
+- **SQL**: Joins, Aggregations, Subqueries  
+- **Power BI**: DAX, Data Modeling, Dashboards  
+- **Excel**: Advanced formulas, Pivot Tables, Power Query  
+- **Python**: Pandas, NumPy, Matplotlib  
+
+---
+
+## 📊 Data Analytics Projects
+👉 Check my portfolio here:  
+🔗 **[Data Analyst Portfolio](https://github.com/sakhand97/data-analyst-portfolio)**
+
+---
+
+## 🌱 Background
+I have a technical background in web development and software engineering, which helps me understand data from both frontend and backend perspectives.
+
+---
+
+## 📫 Contact
+📧 Email: sakhand97@gmail.com  
+📍 Location: Gurugram, India
